@@ -4,4 +4,8 @@
     <string name="ocbc">OCBC</string>
     <string name="uob">UOB</string>
     <string name="my_local_banks">My Local Banks</string>
+    <string name="visit_web">Visit Web</string>
+    <string name="call">Call</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
 </resources>

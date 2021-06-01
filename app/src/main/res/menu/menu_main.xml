@@ -4,9 +4,9 @@
     <item
         android:id="@+id/selectEnglish"
         android:orderInCategory="1"
-        android:title="English"/>
+        android:title="@string/english"/>
     <item android:id="@+id/selectChinese"
         android:orderInCategory="2"
-        android:title="Chinese"/>
+        android:title="@string/chinese"/>
 
 </menu>
